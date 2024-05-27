@@ -1,5 +1,6 @@
 ✨Hi, I’m Mikhail (@Vaory). I’m interested in mobile app development
-and currently do it on Swift. You can reach me via email: demichev.mi@gmail.com✨
+and currently do it on Swift. You can reach me via email: demichev.mi@gmail.com
+or telegram @dem_mi✨
 
 <!---
 Vaory/Vaory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
